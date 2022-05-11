@@ -2,23 +2,23 @@
 remote_theme: epidrome/cover-card@main
 
 # Title and tag line
-title: 'My name'
-description: 'I am amazing.'
+title: 'Girls Don't Sweat'
+description: 'Jesteśmy trójką dynamicznych muzyków. Michał buduje historie na klawiszach, Ida ubiera je w słowa, a Anita dodaje im magii instrumentami perkusyjnymi. Wspólnie tworzą opowieści muzyczne z pogranicza różnych gatunków, bawiąc się dźwiękami i rytmem. Szukając wyjątkowych brzmień, zapraszają do swojego świata również innych muzyków.'
 
 # Images
-avatar: 'avatar.jpg'
-background: 'background.jpg'
+avatar: 'avatar.png'
+background: 'background.png'
 favicon: 'favicon.ico'
 
 # Online profiles
 #dribbble: 'mydribbble'
-facebook: 'myfacebook'
-twitter: 'mytwitter'
+# facebook: 'myfacebook'
+# twitter: 'mytwitter'
 #linkedin: 'mylinkedin'
-instagram: 'myinsta'
+# instagram: 'myinsta'
 #pinterest: 'mypinterest'
-youtube: 'myyoutube'
-github-user: 'mygithub'
+youtube: 'UC1hAF_JQeqv4jcer3-Lxlag'
+# github-user: 'mygithub'
 #gitlab-user: ''
 #codepen: ''
 #steam: ''
@@ -28,12 +28,12 @@ github-user: 'mygithub'
 #reddit: ''
 #rubygems: ''
 #medium:  ''
-tumblr: 'mytumblr'
-weibo: 'myweibo'
-vk: 'myvk'
-blog_url: 'myblog.blog.com'
-email: 'hello@example.com'
-messenger: 'myfbchat'
+# tumblr: 'mytumblr'
+# weibo: 'myweibo'
+# vk: 'myvk'
+# blog_url: 'myblog.blog.com'
+email: 'info@girlsdontsweat.com'
+# messenger: 'myfbchat'
 
 social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
 
