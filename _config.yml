@@ -32,7 +32,7 @@ youtube: 'channel/UC1hAF_JQeqv4jcer3-Lxlag'
 # weibo: 'myweibo'
 # vk: 'myvk'
 # blog_url: 'myblog.blog.com'
-email: 'info@girlsdontsweat.com'
+email: 'girlsdontsweat@gmail.com' # 'info@girlsdontsweat.com'
 # messenger: 'myfbchat'
 
 social-links-order: [youtube, email]
